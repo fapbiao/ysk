@@ -17,15 +17,15 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>tchip.xxxxxx.com</string>
+               <string>com.nianticlabs.pokemongo.i6mg6m</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>0.29.2</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>App Subtitle</string>
+               <string>Game1</string>
                <key>title</key>
-               <string>App Title</string>
+               <string>Game2</string>
            </dict>
        </dict>
    </array>
