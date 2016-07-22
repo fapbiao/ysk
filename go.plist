@@ -13,22 +13,6 @@
                    <key>url</key>
                    <string>http://shiliutao.com/go.ipa</string>
                </dict>
-               <dict>
-                     <key>kind</key>
-                     <string>full-size-image</string>
-                     <key>needs-shine</key>
-                     <true/>
-                     <key>url</key>
-                     <string>xxx.xxx.png</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>xxx.xxx.png</string>
-               </dict>
            </array>
            <key>metadata</key>
            <dict>
