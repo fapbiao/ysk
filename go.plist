@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://shiliutao.com/go.ipa</string>
+                   <string>http://shiliutao.b0.upaiyun.com/go/go.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -23,9 +23,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Game1</string>
+               <string>PokemonGo</string>
                <key>title</key>
-               <string>Game2</string>
+               <string>PokemonGo-Pro</string>
            </dict>
        </dict>
    </array>
